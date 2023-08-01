@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pairity-score-workflows:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-08-01T07:42:10.960474+05:30"
+    dependencies:
+    - name: airflow
+      repository: https://airflow.apache.org
+      version: 1.6.0
+    description: Pairity Score Airflow Deployment
+    digest: 38c88c9d154c26342ae908b26aade0e8837b6b3558498b2071b08716462e051e
+    home: https://gitlab.com/pairity/pairity_score
+    maintainers:
+    - email: engineering@pairity.ai
+      name: Pairity Engineering
+    name: pairity-score-workflows
+    urls:
+    - https://github.com/shanbagarajanbalasubramanian/WorkFlows/pairity-score-workflows-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-01T07:42:10.953166+05:30"
